@@ -1,2 +1,2 @@
 # IP_detox
-IP address catcher
+anti theft
